@@ -15,3 +15,7 @@ input[type="button"] {
     margin: 5px;
     cursor: pointer;
 }
+
+.container {
+    text-align: center;
+}
